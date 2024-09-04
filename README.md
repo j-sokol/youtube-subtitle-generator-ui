@@ -12,6 +12,14 @@ Install this repository with the following command:
 
     git clone https://github.com/j-sokol/youtube-subtitle-generator-ui
 
+Create virtual environment:
+
+    python3 -m venv venv
+
+Activate the venv:
+
+    . ./venv/bin/activate    
+
 In order to execute this code, the required modules must be installed:
 
     pip install -r requirements.txt
@@ -38,5 +46,5 @@ scoop install ffmpeg
 ## Usage
 Execute main.py with the following command.
 
-    python3 main.py
+    . ./venv/bin/activate && python main.py
 
