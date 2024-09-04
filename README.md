@@ -1,4 +1,4 @@
-# YouTube Subtitle Whisper
+# YouTube Subtitle Generator WebUI
 
 
 ## Description
